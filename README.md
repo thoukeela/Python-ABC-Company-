@@ -2,7 +2,7 @@ Project Overview
 
 This project analyzes a dataset of basketball players to uncover insights about player demographics, performance, salary distributions, and team structures.
 
-Data Preprocessing
+Data Preprocessing:
 
 Data Import: Loaded the dataset into a Pandas DataFrame.
 
@@ -13,7 +13,7 @@ Data Types: Converted columns to appropriate data types for analysis.
 Feature Creation: Created new features, such as age groups.
 
 
-Analysis Tasks
+Analysis Tasks:
 
 Player Distribution by Team: Analyzed how players are distributed across different teams.
 
@@ -26,7 +26,7 @@ Salary Expenditure Analysis: Found which teams and positions have the highest sa
 Correlation Investigation: Investigated the relationship between age and salary.
 
 
-Graphical Representations
+Graphical Representations:
 
 Bar Charts: Showed the distribution of players by team and position.
 
@@ -34,7 +34,7 @@ Pie Charts: Illustrated the percentage of players in each team.
 
 Scatter Plots: Displayed the correlation between age and salary.
 
-Insights Gained
+Insights Gained:
 
 Position Trends: An increase in guards reflects the modern game’s style.
 
